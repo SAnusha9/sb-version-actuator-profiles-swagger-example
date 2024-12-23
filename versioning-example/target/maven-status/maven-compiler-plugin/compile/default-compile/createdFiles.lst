@@ -1,0 +1,4 @@
+com\example\versioning\model\PersonV2.class
+com\example\versioning\VersioningApplication.class
+com\example\versioning\controller\VersionedController.class
+com\example\versioning\model\PersonV1.class
